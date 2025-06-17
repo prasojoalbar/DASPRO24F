@@ -1,0 +1,2 @@
+angka1 = int('Angka:')
+angka2 =
